@@ -1,0 +1,83 @@
+
+.social-lookbook-container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+
+  .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+ 
+  .button-primary {
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+
+  .section-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+ 
+
+  .comment-section {
+    margin-left: 20px; 
+  }
+  
+  .comment {
+    margin-bottom: 10px; 
+  }
+  
+ 
+  .stories-grid, .recommendations-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1250px;
+    margin: 0 auto;
+  }
+  
+  .card_image{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 50%;
+    background-color: rgb(179, 184, 176);
+    background-image:radial-gradient(rgb(221, 217, 217),rgb(223, 236, 230));
+    box-shadow: 2px 2px 4px rgb(129, 127, 127);
+    box-sizing: border-box;
+    transition: transform 1s;
+    /* border: 2px solid black; */
+  }
+  .card_image:hover{
+     box-shadow: 3px 3px 6px rgb(39, 38, 38); 
+    transform: scale(1.1);
+  }
+  .social-share {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  .social-button {
+    margin-right: 10px;
+  } 

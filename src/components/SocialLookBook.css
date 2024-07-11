@@ -1,0 +1,124 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.social-lookbook-container {
+    min-height: 50vh;
+    max-width: 85vw;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    align-items: center;
+    padding-top: 5px; 
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    font-family: 'Arial', sans-serif; 
+   }
+  
+  .card-title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-decoration: underline; 
+  }
+  
+  .card-text {
+    font-size: 1.2rem;
+    margin-top: 5px;
+    text-align: justify;
+  }
+  
+  .button-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .button-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+
+h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .outerContainer{
+    max-width: 770px;
+    overflow-x:hidden;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 4rem;
+  }
+  .outerContainer::-webkit-scrollbar{
+    display: none;
+  }
+  .outerCard{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap; 
+    margin-top: 4rem;
+    width: 100%;
+    grid-gap:20px;
+    padding: 10px;   
+  }
+   .imagecard {
+    width: 14rem;
+    min-width: 10rem;
+    border-radius: 16px;
+    margin-right: 16px;
+    filter: grayscale(20%);
+    transition: transform 1s;
+    
+  } 
+  .imagecard:hover{
+    box-shadow: 1px 1px 3px  rgb(34, 32, 37);
+  }
+  
+  .cardimage {
+    height: 15rem;
+    object-fit: cover; 
+    object-position: top; 
+    border-radius: 8px 8px 0 0;
+    background-color: green;
+  }
+  
+  .card-body {
+    padding: 15px;
+    text-align: center;
+
+  }
+  .gallery-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+   
+  }
+    .imagecard:hover{
+        filter: grayscale(0);
+        cursor: pointer;
+        transform: scale(1.1);
+    }
+
+    .icon{
+      height: 42px;
+      width:42px;
+      background-color: white;
+      border-radius: 50%;
+      position: absolute;
+      bottom: 0px;
+      cursor: pointer;
+      border: 2px solid black;
+
+    }
+    #nextbtn{
+      left: 52vw;
+    }
+    #backbtn{
+      right: 52vw;
+    }

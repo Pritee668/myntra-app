@@ -1,0 +1,98 @@
+
+.styleFeedContainer {
+    text-align: center;
+    margin-bottom: 20px;
+    max-width: 95vw;
+    width: 90%;
+    margin: auto;
+    background-color: #fafafa;
+    box-shadow: 1px 1px 2px black, -1px -1px 2px black;
+  }
+  
+  .pageTitle {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  .imgContainer {
+    height: 18rem;
+    max-width: 18rem;
+    margin: auto;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    background-color: #fff; 
+  }
+  
+  .imgTag {
+    width: 100%;
+    height: 100%;
+    object-fit: auto;
+    transition: transform 0.3s ease; 
+  }
+  
+  .imgContainer:hover .imgTag {
+    transform: scale(1.05); 
+  }
+  
+  .itemCard {
+    height: 20rem; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.3s, box-shadow 0.3s;
+    border: none; 
+    border-radius: 10px; 
+    overflow: hidden; 
+  }
+  
+  .itemCard:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+  }
+  
+  .itemTitle {
+    font-size: 12px;
+    text-decoration: none;
+    text-align: justify;
+    color: #333;
+  }
+  
+  .itemPrice {
+    font-size: 1rem;
+    text-align: center!important;
+    font-weight: 400;
+    color: #7819e6;
+    font-style: normal!important;
+  }
+  i{
+    color: #686363;
+  }
+  
+  .cardBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left; 
+    padding: 0.3rem; 
+  }
+  .review {
+    display: flex;
+    justify-content: space-between; 
+    font-size: 1rem;
+    color: #7409ee;
+    font-weight: 400;
+    font-style: normal!important;
+  }
+  .titleItem{
+    text-align: center;
+    font-size: 1rem;
+    color: #000000;
+    font-weight: 00;
+  }
