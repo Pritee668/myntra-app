@@ -2,7 +2,7 @@
   "name": "myntra-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Pritee668.github.io/myntra-appnpm install gh-pages --save-dev",
+  "homepage": "https://Pritee668.github.io/myntra-app",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
