@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.24953ff0.css",
-    "main.js": "/static/js/main.65635fab.js",
-    "static/media/ethnic-wear.png": "/static/media/ethnic-wear.2116cd76a8d61389bc97.png",
-    "static/media/traditional-women.jpg": "/static/media/traditional-women.d67d7e3b4e56323e12c1.jpg",
-    "static/media/frock.jpg": "/static/media/frock.bfa40723acd2c9fab45e.jpg",
-    "static/media/stylish.jpg": "/static/media/stylish.28ebbb06c68cf7f64ad9.jpg",
-    "static/media/formal-men.jpg": "/static/media/formal-men.5635428eeb3942655639.jpg",
-    "index.html": "/index.html",
-    "main.24953ff0.css.map": "/static/css/main.24953ff0.css.map",
-    "main.65635fab.js.map": "/static/js/main.65635fab.js.map"
+    "main.css": "/myntra-appnpm%20install%20gh-pages%20--save-dev/static/css/main.24953ff0.css",
+    "main.js": "/myntra-appnpm%20install%20gh-pages%20--save-dev/static/js/main.87dc916d.js",
+    "static/media/ethnic-wear.png": "/myntra-appnpm%20install%20gh-pages%20--save-dev/static/media/ethnic-wear.2116cd76a8d61389bc97.png",
+    "static/media/traditional-women.jpg": "/myntra-appnpm%20install%20gh-pages%20--save-dev/static/media/traditional-women.d67d7e3b4e56323e12c1.jpg",
+    "static/media/frock.jpg": "/myntra-appnpm%20install%20gh-pages%20--save-dev/static/media/frock.bfa40723acd2c9fab45e.jpg",
+    "static/media/stylish.jpg": "/myntra-appnpm%20install%20gh-pages%20--save-dev/static/media/stylish.28ebbb06c68cf7f64ad9.jpg",
+    "static/media/formal-men.jpg": "/myntra-appnpm%20install%20gh-pages%20--save-dev/static/media/formal-men.5635428eeb3942655639.jpg",
+    "index.html": "/myntra-appnpm%20install%20gh-pages%20--save-dev/index.html",
+    "main.24953ff0.css.map": "/myntra-appnpm%20install%20gh-pages%20--save-dev/static/css/main.24953ff0.css.map",
+    "main.87dc916d.js.map": "/myntra-appnpm%20install%20gh-pages%20--save-dev/static/js/main.87dc916d.js.map"
   },
   "entrypoints": [
     "static/css/main.24953ff0.css",
-    "static/js/main.65635fab.js"
+    "static/js/main.87dc916d.js"
   ]
 }
