@@ -1,4 +1,4 @@
-import { Card,Button} from 'react-bootstrap';
+import { Col,Card,Button} from 'react-bootstrap';
 
 function ChallengeCard({ challenge, onJoin, onLeaderboard, onReview }) {
     return (
