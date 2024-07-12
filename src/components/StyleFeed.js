@@ -43,11 +43,6 @@ export default function StyleFeed() {
 
 
 function ItemCard({ item }) {
-
-  const handleAction = () => {
-    console.log(`Added ${item.title} to favorites or cart!`);
-  };
-
   return (
     <Col className="mb-4">
       <Card className="itemCard">
