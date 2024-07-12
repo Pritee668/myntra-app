@@ -1,4 +1,4 @@
-import { Card, Row, Col, Button, Form, Modal } from 'react-bootstrap';
+import { Card,Button} from 'react-bootstrap';
 
 function ChallengeCard({ challenge, onJoin, onLeaderboard, onReview }) {
     return (
