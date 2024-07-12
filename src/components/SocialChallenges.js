@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Card, Row, Col, Button, Form, Modal } from 'react-bootstrap';
+import {Row,Button, Form, Modal } from 'react-bootstrap';
 import './SocialChallenge.css';
 import challengesData from '../data/Challenges.js'; 
 import Header from '../components/common/Header.js'
