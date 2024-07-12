@@ -1,5 +1,5 @@
 import './CombineCss.css';
-import { Card,Button,Container,Form} from 'react-bootstrap';
+import {Button,Form} from 'react-bootstrap';
 
 export default function Comments({ comments }){
     return (
