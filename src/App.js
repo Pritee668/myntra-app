@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
     
-<h1>APP component</h>
+<h1> component</h1>
     </div>
   );
 }
