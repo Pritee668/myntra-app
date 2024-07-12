@@ -55,6 +55,21 @@
     max-width: 1250px;
     margin: 0 auto;
   }
+  /* .recommendation-card{
+    max-width: fit-content;
+    max-height: 2rem;
+  } */
+  .card-image{
+    background-repeat: no-repeat;
+    object-fit: cover;
+    max-height: 200px;
+    max-width: 200px;
+    margin: auto;
+    margin-top: 10px;
+    box-sizing: border-box;
+    object-position: top;
+    
+  }
   
   .card_image{
     height: 50px;
@@ -62,22 +77,28 @@
     margin: auto;
     margin-top: 10px;
     border-radius: 50%;
-    background-color: rgb(179, 184, 176);
-    background-image:radial-gradient(rgb(221, 217, 217),rgb(223, 236, 230));
     box-shadow: 2px 2px 4px rgb(129, 127, 127);
     box-sizing: border-box;
-    transition: transform 1s;
-    /* border: 2px solid black; */
-  }
-  .card_image:hover{
-     box-shadow: 3px 3px 6px rgb(39, 38, 38); 
-    transform: scale(1.1);
+
   }
   .social-share {
     margin-top: 40px;
     text-align: center;
+    margin-bottom: 40px;
   }
   
   .social-button {
     margin-right: 10px;
   } 
+  .comment-section {
+    max-height: 300px; 
+    /* overflow-y: auto; */
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+    margin-top: 0.8rem; 
+  }
+  
+  .comment {
+    margin-bottom: 1rem;
+  }
+  

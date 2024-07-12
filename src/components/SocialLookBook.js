@@ -1,4 +1,5 @@
 import React from "react";
+import { useState } from "react";
 import { Card, Button, Container, Form } from "react-bootstrap";
 import Slider from "./Slider.js";
 import "./SocialLookBook.css";
@@ -9,6 +10,7 @@ import Comments from "./sociallook/Comments.js";
 import Header from '../components/common/Header.js'
 
 const SocialLookbook = () => {
+  const [showComments, setShowComments] = useState(false);
   const comments = [
     { user: "John", text: "Great outfit!" },
     { user: "Jane", text: "Love this style!" },
@@ -16,17 +18,19 @@ const SocialLookbook = () => {
 
   const recommendations = [
     {
-      image: "path_to_image",
+      image: "https://5.imimg.com/data5/SELLER/Default/2023/4/303996972/UN/ML/PU/3003081/girls-summer-dress.jpeg",
       title: "Summer Dress",
       description: "Perfect for the sunny days.",
     },
     {
-      image: "path_to_image",
+      image: "https://i.pinimg.com/564x/63/bd/bc/63bdbc838a9b43f25d20a686a3de2428.jpg",
       title: "Casual Jacket",
       description: "Stay stylish in any weather.",
     },
   ];
-
+  const handleToggleComments = () => {
+    setShowComments(!showComments);
+  };
   return (
     <>
     <Header/>
@@ -52,16 +56,21 @@ const SocialLookbook = () => {
               and creativity together, one outfit at a time. Your style is your
               voice—let it be heard.
             </Card.Text>
+            
             <Button variant="primary" className="button-primary">
               Share Your Story
             </Button>
+            <Button variant="secondary" className="button-secondary" onClick={handleToggleComments} style={{ margin: '1rem' }}>
+              {showComments ? "Hide Comments" : "See Comments"}
+            </Button>
+            {showComments && <Comments comments={comments} />}
           </Card.Body>
         </Card>
       </Container>
       <Slider />
       <UserStories />
       <Recommendation recommendations={recommendations} />
-      <Comments comments={comments} />
+      {/* <Comments comments={comments} /> */}
       <SocialShare />
     </>
   );

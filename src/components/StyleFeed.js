@@ -54,16 +54,13 @@ function ItemCard({ item }) {
         <div className="imgContainer">
           <Card.Img variant="top" src={item.image} className="imgTag" />
         </div>
-        <Card.Body className="cardBody">
+        {/* <Card.Body className="cardBody">
           <p className="itemTitle">{item.title}</p>
           <div className="review">
             <span>Rating&nbsp;<i>{item.rating.rate}</i></span>
             <span>Price&nbsp;&#8377;<i>{item.price}</i></span>
           </div>
-          <Button variant="primary" onClick={handleAction}>
-            Add to Cart
-          </Button>
-        </Card.Body>
+        </Card.Body> */}
       </Card>
     </Col>
   );

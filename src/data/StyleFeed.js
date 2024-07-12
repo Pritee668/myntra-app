@@ -5,7 +5,7 @@ let feedData=[
       "price": 400,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "image": "https://hips.hearstapps.com/esq.h-cdn.co/assets/17/06/1486676202-look-4-2.jpg?resize=980:*",
       "rating": {
         "rate": 3.9,
         "count": 120
@@ -53,7 +53,7 @@ let feedData=[
       "price": 100,
       "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
       "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "image": "https://i.etsystatic.com/44559723/r/il/c164d6/5550050509/il_fullxfull.5550050509_rzlu.jpg",
       "rating": {
         "rate": 4.6,
         "count": 400
@@ -65,7 +65,7 @@ let feedData=[
       "price": 168,
       "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
       "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR2as2O0WI6XkxJmRT4wxmI5iaZmNO8PFdFQMjmsEaaKMWSchclehriC7qlYV6i3kTki4Ii0DHL6PdHqsWL4txMjFjdhp9bz7meWj06f4JP5cNvxnJnmSnJ&usqp=CAE",
       "rating": {
         "rate": 3.9,
         "count": 70
@@ -77,7 +77,7 @@ let feedData=[
       "price": 350,
       "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
       "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "image": "https://rukminim2.flixcart.com/image/400/400/kzx1a4w0/ring/a/k/r/adjustable-2-dr-048-ring-set-devora-original-imagbtmmu6y2hhdt.jpeg?q=90&crop=false",
       "rating": {
         "rate": 3,
         "count": 400
@@ -89,7 +89,7 @@ let feedData=[
       "price": 600,
       "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
       "category": "jewelery",
-      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230623/z0lI/649556a7a9b42d15c9bcbc63/-473Wx593H-464689915-rosegold-MODEL6.jpg",
       "rating": {
         "rate": 1.9,
         "count": 100
@@ -101,7 +101,7 @@ let feedData=[
       "price": 800,
       "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
       "category": "electronics",
-      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "image": "https://www.firenzejewels.com/images/products/p_7025_m_1.jpg",
       "rating": {
         "rate": 3.3,
         "count": 203
@@ -113,7 +113,7 @@ let feedData=[
       "price": 900,
       "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
       "category": "electronics",
-      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "image": "https://www.simibridaldresses.com/cdn/shop/products/fdherwerwerwe_1024x1024.jpg?v=1573385083",
       "rating": {
         "rate": 2.9,
         "count": 470
@@ -125,7 +125,7 @@ let feedData=[
       "price": 700,
       "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
       "category": "electronics",
-      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSl36j-R5CHl4KnkuS1RaGaHp1fPHnuN1CWJzISs6Z7Z5IFbLejvskFyvzwX3cX3lF1AFdggqoudVKks1xS9oceaqwgINdKbfudMZghD1-N&usqp=CAE",
       "rating": {
         "rate": 4.8,
         "count": 319
@@ -137,7 +137,7 @@ let feedData=[
       "price": 750,
       "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
       "category": "electronics",
-      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTRET4QCXMoH6BV28t6YI1pzXeZFaRmuaEey0L5yodr3Dgvrx47ahI-v_ya6152CZyCZkwqiFCxMio-qjeCUokJNRqAl6t9DZCsNIoh4XYq&usqp=CAE",
       "rating": {
         "rate": 4.8,
         "count": 400
@@ -149,7 +149,7 @@ let feedData=[
       "price": 1000,
       "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
       "category": "electronics",
-      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "image": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/16450799a.webp",
       "rating": {
         "rate": 2.9,
         "count": 250
@@ -161,7 +161,7 @@ let feedData=[
       "price": 999,
       "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
       "category": "electronics",
-      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQC8zYomjFXJhLDmPC-HtZcszSVJfm7v3ju1Wnp6ZHH8ac0XgMWwN3gw_5BaNoFz4cu7860dXdg_WVkkMVkFytLoMBA9FdifcG9AhSTrIE&usqp=CAE",
       "rating": {
         "rate": 2.2,
         "count": 140
@@ -173,7 +173,7 @@ let feedData=[
       "price": 199,
       "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
       "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFNGE0UrF5w7pw20dISr_D6_jUvoIcbHYC6H4H8fcYZ89CuQWRbiAljMK2L_Rwst6_FgF44e6KOUOo23jLKoqIUvp-NJNBFw9PNIoiaVH2kvC3StdBz54I&usqp=CAE",
       "rating": {
         "rate": 2.6,
         "count": 235
@@ -204,12 +204,13 @@ let feedData=[
       }
     },
     {
+      
       "id": 18,
       "title": "Women's Solid Short Sleeve Boat Neck V ",
       "price": 399,
       "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
       "category": "women's clothing",
-      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
       "rating": {
         "rate": 4.7,
         "count": 130
@@ -245,7 +246,7 @@ let feedData=[
       "price": 109,
       "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
       "category": "men's clothing",
-      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg ",
       "rating": {
         "rate": 3.9,
         "count": 120

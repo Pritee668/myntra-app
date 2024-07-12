@@ -9,7 +9,7 @@ export default function Recommendation({ recommendations }) {
       <div className="recommendations-grid">
         {recommendations.map((item, index) => (
           <Card key={index} className="recommendation-card">
-            <Card.Img className='card-image'/>
+            <Card.Img className='card-image' src={item.image}/>
             <Card.Body>
               <Card.Title>{item.title}</Card.Title>
               <Card.Text>{item.description}</Card.Text>

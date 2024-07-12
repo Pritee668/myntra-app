@@ -1,4 +1,4 @@
-.socialChallengesContainer {
+/* .socialChallengesContainer {
     text-align: center;
     margin-bottom: 20px;
     max-width: 95vw;
@@ -106,5 +106,141 @@
   
   .btn:hover {
     transform: scale(1.05);
+  }
+   */
+/* 
+
+   .socialChallengesContainer {
+    padding: 20px;
+  }
+  
+  .pageTitle {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .filters {
+    margin-bottom: 20px;
+  }
+  
+  .challengeRow {
+    margin-top: 20px;
+  }
+  
+  .challengeCard {
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .imgContainer {
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  .imgTag {
+    width: 100%;
+    height: auto;
+  }
+  
+  .cardBody {
+    padding: 15px;
+  }
+  
+  .challengeTitle {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .challengeDescription {
+    font-size: 1em;
+    margin-bottom: 15px;
+  }
+  
+  .challengeDetails {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .challengeActions .btn {
+    margin-right: 5px;
+  }
+  
+  .ml-2 {
+    margin-left: 8px;
+  }
+   */
+   .socialChallengesContainer {
+    padding: 20px;
+  }
+  
+  .pageTitle {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .filters {
+    margin-bottom: 20px;
+  }
+  
+  .challengeRow {
+    margin-top: 20px;
+  }
+  
+  .challengeCard {
+    border-radius: 10px;
+    overflow: hidden;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .imgContainer {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+  
+  .imgTag {
+    width: auto;
+    height: 100%;
+  }
+  
+  .cardBody {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+  }
+  
+  .challengeTitle {
+    font-size: 1.3em;
+    font-weight: 700;
+    /* margin-bottom: 10px; */
+  }
+  
+  .challengeDescription {
+    font-size: 1rem;
+    margin-bottom: 0.7rem;
+  }
+  
+  .challengeDetails {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .challengeActions {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 15px;
+  }
+  
+  .ml-2 {
+    margin-left: 8px;
   }
   

@@ -5,12 +5,12 @@ export default function UserStories(){
       {
         name: "Alice",
         story: "I love mixing vintage pieces with modern trends. Myntra has the best collection for that!",
-        image: "path_to_image",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpK2zMPUXYsZZgm5GAac9oa42cyxHtYGO5wA&s",
       },
       {
         name: "Bob",
         story: "Myntra helped me find my style and express my true self through fashion.",
-        image: "path_to_image",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpK2zMPUXYsZZgm5GAac9oa42cyxHtYGO5wA&s",
       },
     ];
   
@@ -20,7 +20,7 @@ export default function UserStories(){
         <div className="stories-grid">
           {stories.map((story, index) => (
             <Card key={index} className="story-card">
-            <Card.Img className='card_image'/>
+            <Card.Img className='card_image' src={story.image}/>
               <Card.Body>
                 <Card.Title>{story.name}</Card.Title>
                 <Card.Text>{story.story}</Card.Text>
