@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row ,Form } from 'react-bootstrap';
+import { Col,Card,Row ,Form } from 'react-bootstrap';
 import stylefeed from '../data/StyleFeed';
 import './StyleFeed.css'; 
 import Header from '../components/common/Header.js'
