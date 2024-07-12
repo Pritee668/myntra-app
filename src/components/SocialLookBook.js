@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import { Card, Button, Container, Form } from "react-bootstrap";
+import { Card, Button, Container } from "react-bootstrap";
 import Slider from "./Slider.js";
 import "./SocialLookBook.css";
 import UserStories from "./sociallook/UserStories.js";
