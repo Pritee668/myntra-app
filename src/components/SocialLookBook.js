@@ -57,11 +57,12 @@ const SocialLookbook = () => {
               voice—let it be heard.
             </Card.Text>
             
-            <Button variant="primary" className="button-primary">
+            {/* <Button variant="primary" className="button-primary">
               Share Your Story
-            </Button>
+            </Button> */}
             <Button variant="secondary" className="button-secondary" onClick={handleToggleComments} style={{ margin: '1rem' }}>
-              {showComments ? "Hide Comments" : "See Comments"}
+              {/* {showComments ? "SHAR" : "See Comments"} */}
+              Share Your Story
             </Button>
             {showComments && <Comments comments={comments} />}
           </Card.Body>
