@@ -5,12 +5,12 @@ export default function UserStories(){
       {
         name: "Alice",
         story: "I love mixing vintage pieces with modern trends. Myntra has the best collection for that!",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpK2zMPUXYsZZgm5GAac9oa42cyxHtYGO5wA&s",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJKnniVd-1DwkG7PLBc_49rBUJFHxl9mQeUx-SrWwg38HoSAMyOnSqb-dJaIrVBGilGW8&usqp=CAU",
       },
       {
         name: "Bob",
         story: "Myntra helped me find my style and express my true self through fashion.",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpK2zMPUXYsZZgm5GAac9oa42cyxHtYGO5wA&s",
+        image: "https://www.shutterstock.com/image-photo/handsome-hispanic-millennial-man-sit-260nw-2174725871.jpg",
       },
     ];
   
