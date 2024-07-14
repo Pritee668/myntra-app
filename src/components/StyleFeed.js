@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Row, Col, Button, Form } from 'react-bootstrap';
+import { Col,Card,Row ,Form } from 'react-bootstrap';
 import stylefeed from '../data/StyleFeed';
 import './StyleFeed.css'; 
 import Header from '../components/common/Header.js'
@@ -43,11 +43,6 @@ export default function StyleFeed() {
 
 
 function ItemCard({ item }) {
-
-  const handleAction = () => {
-    console.log(`Added ${item.title} to favorites or cart!`);
-  };
-
   return (
     <Col className="mb-4">
       <Card className="itemCard">
